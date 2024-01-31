@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/repetition/tree/01-react/static/css/main.b5320759.css",
-    "main.js": "/repetition/tree/01-react/static/js/main.18896c6b.js",
-    "index.html": "/repetition/tree/01-react/index.html",
-    "main.b5320759.css.map": "/repetition/tree/01-react/static/css/main.b5320759.css.map",
-    "main.18896c6b.js.map": "/repetition/tree/01-react/static/js/main.18896c6b.js.map"
+    "main.css": "/repetition/static/css/main.b5320759.css",
+    "main.js": "/repetition/static/js/main.fc8c21ca.js",
+    "index.html": "/repetition/index.html",
+    "main.b5320759.css.map": "/repetition/static/css/main.b5320759.css.map",
+    "main.fc8c21ca.js.map": "/repetition/static/js/main.fc8c21ca.js.map"
   },
   "entrypoints": [
     "static/css/main.b5320759.css",
-    "static/js/main.18896c6b.js"
+    "static/js/main.fc8c21ca.js"
   ]
 }
